@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+*.pyo
+*.DS_Store
+
+# virtual environments
+.venv/
+env/
+venv/
+
+# images, figures, outputs
+*.png
+*.jpg
+*.pdf
+
+# Jupyter notebooks
+*.ipynb_checkpoints/
+
+# logs
+*.log
