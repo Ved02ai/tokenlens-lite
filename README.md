@@ -18,4 +18,19 @@ as an accessible interpretability toolkit for researchers and practitioners.
 ---
 
 ## 📂 Repository Structure
+tokenlens-lite/
+├── 📄 core.py
 
+├── ✂️ pruning.py
+
+├── 🎨 viz.py
+
+├── 📝 tokenlens_demo.txt
+
+├── 📘 README.md
+
+├── 📜 LICENSE
+
+├── 📄 NOTICE
+
+└── ⚙️ .gitignore
